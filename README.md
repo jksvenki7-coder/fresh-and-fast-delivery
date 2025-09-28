@@ -146,7 +146,7 @@ all items delivery at door step
             <input type="text" id="nameInput" required />
 
             <label for="phoneInput">Phone Number:</label>
-            <input type="tel" id="phoneInput" required pattern="\\d{10}" title="Enter 10 digit phone number" />
+            <input type="tel" id="phoneInput" required pattern="\\="Enter 10 digit phone number" />
 
             <label for="orderItemInput">Order Item:</label>
             <textarea id="orderItemInput" rows="3" required></textarea>
